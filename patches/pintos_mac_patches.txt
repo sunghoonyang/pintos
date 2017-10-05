@@ -1,0 +1,6 @@
+https://www.doc.ic.ac.uk/~lk1015/pintos-mac/0001-macOS-makefile-build-using-i686-elf-cross-compilers.patch
+https://www.doc.ic.ac.uk/~lk1015/pintos-mac/0002-macOS-qemu-silence-raw-format-warning.patch
+https://www.doc.ic.ac.uk/~lk1015/pintos-mac/0003-macOS-pintos-fix-host-CPU-timeout-bug-on-mac.patch
+https://www.doc.ic.ac.uk/~lk1015/pintos-mac/0004-macOS-utils-build-without-stream-tty-support.patch
+https://www.doc.ic.ac.uk/~lk1015/pintos-mac/0005-macOS-tests-make-find-POSIX-compliant.patch
+https://www.doc.ic.ac.uk/~lk1015/pintos-mac/0006-macOS-pintos-gdb-use-an-ELF-based-GDB.patch
