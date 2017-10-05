@@ -34,7 +34,7 @@ mkdir plain &&
         cd ..
 mkdir with-dbg &&
         cd with-dbg &&
-        ../configure --enable-debugger $CFGOPTS &&
+        ../configure --enabsle-debugger $CFGOPTS &&
         make &&
         cp bochs $DSTDIR/bin/bochs-dbg &&
         cd ..
